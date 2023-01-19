@@ -5,4 +5,5 @@ This project presents a study on the use of convolutional neural networks (CNN) 
 1. [Dataset A](https://drive.google.com/drive/folders/1qPZkE1gftaioks28DPixCuQZ-lqCjMEJ?usp=sharing)
 2. [Dataset B](https://drive.google.com/drive/folders/1VqDvcmG3UuQFhyO8LWoa7iLssnO8aUEN?usp=sharing)
 3. [Dataset B modified](https://drive.google.com/drive/folders/1EIEZz6wjhcxYBjtS6W-ngT6vyR35PmY2?usp=sharing)
-<br> Here's the link to the saved fine-tuned PyTorch model : [DenseNet201](https://drive.google.com/file/d/13wckgFIl6i1FMjUyfVLdkRkDNBHTrnKQ/view?usp=share_link)
+<br><br>
+Here's the link to the saved fine-tuned PyTorch model : [DenseNet201](https://drive.google.com/file/d/13wckgFIl6i1FMjUyfVLdkRkDNBHTrnKQ/view?usp=share_link)
