@@ -4,4 +4,4 @@ This project presents a study on the use of convolutional neural networks (CNN) 
 # All code for this project (main jupyter notebook and python scripts) are available here on github. The 3 datasets used in this project are linked below:
 1. [Dataset A](https://drive.google.com/drive/folders/1qPZkE1gftaioks28DPixCuQZ-lqCjMEJ?usp=sharing)
 2. [Dataset B](https://drive.google.com/drive/folders/1VqDvcmG3UuQFhyO8LWoa7iLssnO8aUEN?usp=sharing)
-3. [New Modified Dataset](https://drive.google.com/drive/folders/1EIEZz6wjhcxYBjtS6W-ngT6vyR35PmY2?usp=sharing)
+3. [Dataset B modified](https://drive.google.com/drive/folders/1EIEZz6wjhcxYBjtS6W-ngT6vyR35PmY2?usp=sharing)
