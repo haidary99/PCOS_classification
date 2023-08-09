@@ -15,8 +15,8 @@ Frameworks and Libraries used: PyTorch, Matplotlib, Pandas, imgaug, Gradio <br>
 # All code for this project (main jupyter notebooks and python scripts) are available here on github. The 3 datasets used in this project are linked below: <br>
 Sources of these datasets and how they are obtained are disscussed in detail within the project thesis.
 1. [Dataset A](https://drive.google.com/drive/folders/1qPZkE1gftaioks28DPixCuQZ-lqCjMEJ?usp=sharing). This publically available  dataset [available on Kaggle](https://www.kaggle.com/datasets/anaghachoudhari/pcos-detection-using-ultrasound-images) was discovered to be erroneous and misleading during the work on this project. 
-2. [Dataset B](https://drive.google.com/drive/folders/1VqDvcmG3UuQFhyO8LWoa7iLssnO8aUEN?usp=sharing)
-3. [Dataset B modified](https://drive.google.com/drive/folders/1EIEZz6wjhcxYBjtS6W-ngT6vyR35PmY2?usp=sharing)
+2. [Dataset B](https://dataverse.telkomuniversity.ac.id/dataset.xhtml?persistentId=doi:10.34820/FK2/QVCP6V)
+3. [Dataset B modified](https://drive.google.com/drive/folders/1EIEZz6wjhcxYBjtS6W-ngT6vyR35PmY2?usp=sharing) - Modified by Image Augmentation techniques to artificially increase the number of available images.
 
 ***
 Links to the trianed PyTorch models: 
