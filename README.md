@@ -23,3 +23,8 @@ Links to the trianed PyTorch models:
 1. Fine-tuned [DenseNet201](https://drive.google.com/file/d/13wckgFIl6i1FMjUyfVLdkRkDNBHTrnKQ/view?usp=share_link) model.
 2. Trained [DenseNet121d](https://drive.google.com/file/d/1_TmP-vqdl7JvvxaNlhTynvTmbbZnN8PF/view?usp=drive_link) model from scratch.
 3. [IustNet](https://drive.google.com/file/d/1-0P-C66B3gg5SLZi2BOHHHqLLGIqjgFm/view?usp=sharing) model that is built from scratch and trained.
+***
+
+Published 2 research papers due to the work on this project both of which available on Google Scholar:
+1. [The Effectiveness of CNN in Evaluating Ultrasound Image Datasets: Diagnosing Polycystic Ovary Syndrome (PCOS) as an Example](https://www.hcsr.gov.sy/sjsi/no.1/) -The Syrian Journal for Science and Innovation 1(1), 85-96. 
+2. [Diagnosing Polycystic Ovary Syndrome (PCOS) Using an Enhanced Transfer Learning Model](https://www.damascusuniversity.edu.sy/mag/conference/index.php?lang=1&set=3&id=431) - Damascus University Journal
